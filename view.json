@@ -1,0 +1,50 @@
+[
+    {
+        "$collectionId": "67202b2200229be126a2",
+        "$createdAt": "2024-10-29T17:38:44.674+00:00",
+        "$databaseId": "67202ac50001d083d636",
+        "$id": "67211da300287a7a1afc",
+        "$permissions": [],
+        "$updatedAt": "2024-10-29T17:38:44.674+00:00",
+        "prompt": "Picture the future of coding with AI. Show AR VR",
+        "thumbnail": "https://i.ibb.co/Xkgk7DY/Video.png",
+        "title": "How AI Shapes Coding Future",
+        "users": {
+            "$collectionId": "67202aef0010bb39b278",
+            "$createdAt": "2024-10-29T09:15:25.630+00:00",
+            "$databaseId": "67202ac50001d083d636",
+            "$id": "6720a7ad001bed0c72cf",
+            "$permissions": [],
+            "$updatedAt": "2024-10-29T09:15:25.630+00:00",
+            "accountId": "6720a7a90030c217537f",
+            "avatar": "https://cloud.appwrite.io/v1/avatars/initials?name=iyanu&project=67202924003e591e4e0c",
+            "email": "oyerindei13@gmail.com",
+            "username": "iyanu"
+        },
+        "video": "https://player.vimeo.com/video/949581999?h=4672125b31"
+    },
+    {
+        "$collectionId": "67202b2200229be126a2",
+        "$createdAt": "2024-10-29T17:39:36.451+00:00",
+        "$databaseId": "67202ac50001d083d636",
+        "$id": "67211dd7001ac1057ecf",
+        "$permissions": [],
+        "$updatedAt": "2024-10-29T17:39:36.451+00:00",
+        "prompt": "Create a motivating AI driven video aimed at inspiring coding enthusiasts with simple language",
+        "thumbnail": "https://i.ibb.co/tJBcX20/Appwrite-video.png",
+        "title": "Get inspired to code",
+        "users": {
+            "$collectionId": "67202aef0010bb39b278",
+            "$createdAt": "2024-10-29T09:15:25.630+00:00",
+            "$databaseId": "67202ac50001d083d636",
+            "$id": "6720a7ad001bed0c72cf",
+            "$permissions": [],
+            "$updatedAt": "2024-10-29T09:15:25.630+00:00",
+            "accountId": "6720a7a90030c217537f",
+            "avatar": "https://cloud.appwrite.io/v1/avatars/initials?name=iyanu&project=67202924003e591e4e0c",
+            "email": "oyerindei13@gmail.com",
+            "username": "iyanu"
+        },
+        "video": "https://player.vimeo.com/video/949579770?h=897cd5e781"
+    }
+]
